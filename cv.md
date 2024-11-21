@@ -4,11 +4,11 @@
 
 ### Contact information:
 
-E-mail: ekaterina.mihalovskaya@gmail.com
+E-mail: kate.mihalovskaya@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/ekaterina-mihalovskaya-2b318321a/)
 
-[Github](https://github.com/katemihalovskaya/)
+[Github](https://github.com/katej100/)
 
 ### About myself:
 
@@ -78,4 +78,4 @@ September 2010 - May 2015
 
 ### Languages
 
-English - Intermediate
+English - Upper Intermediate
